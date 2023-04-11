@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Nishad</h1>
-<h3 align="center">Aspiring web developer and lifelong learner from India, driven by a passion for problem-solving and a desire to push the boundaries of technology.</h3>
+<h3 align="center">Aspiring web, android  developer and lifelong learner from India, driven by a passion for problem-solving and a desire to push the boundaries of technology.</h3>
 
 
 <p align="left">
