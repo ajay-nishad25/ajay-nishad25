@@ -1,21 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ajay Nishad</h1>
 <h3 align="start">Aspiring web, android developer and lifelong learner from India, driven by a passion for problem-solving and a desire to push the boundaries of technology</h3>
 
-<!-- Portfolio Link (plain text version) -->
 <p align="center">
   <a href="https://ajay-nishad25-portfolio.vercel.app/" target="_blank">
-    <b>🌐 Portfolio: ajay-nishad25-portfolio.vercel.app</b>
+    <b>🌐 Visit portfolio</b>
   </a>
 </p>
 
-<!-- Or use the badge version instead (optional, for more visual impact) -->
-<!--
-<p align="center">
-  <a href="https://ajay-nishad25-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-</p>
--->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ajay-nishad25&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-nishad25" />
