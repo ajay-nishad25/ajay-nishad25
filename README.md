@@ -80,7 +80,16 @@ I enjoy working across the complete development lifecycle:
 
 <h2>🧰 Tech Stack</h2>
 
-<h3>🎨 Frontend</h3>
+<table>
+<tr>
+
+<!-- =========================
+     FRONTEND
+========================= -->
+
+<td width="50%" valign="top">
+
+<h3>🎨 Front-End</h3>
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -92,7 +101,15 @@ I enjoy working across the complete development lifecycle:
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 </p>
 
-<h3>⚙️ Backend</h3>
+</td>
+
+<!-- =========================
+     BACKEND
+========================= -->
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Back-End</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -102,7 +119,19 @@ I enjoy working across the complete development lifecycle:
   <img src="https://img.shields.io/badge/WebSockets-8B5CF6?style=flat-square"/>
 </p>
 
-<h3>🗄️ Database</h3>
+</td>
+
+</tr>
+
+<tr>
+
+<!-- =========================
+     DATABASE
+========================= -->
+
+<td width="50%" valign="top">
+
+<h3>🗄️ Databases</h3>
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -112,7 +141,15 @@ I enjoy working across the complete development lifecycle:
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
 </p>
 
-<h3>☁️ Cloud & Deployment</h3>
+</td>
+
+<!-- =========================
+     CLOUD
+========================= -->
+
+<td width="50%" valign="top">
+
+<h3>☁️ DevOps & Cloud</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
@@ -120,6 +157,18 @@ I enjoy working across the complete development lifecycle:
   <img src="https://img.shields.io/badge/Cron%20Jobs-6366F1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- =========================
+     DEVELOPMENT TOOLS
+========================= -->
+
+<td width="50%" valign="top">
 
 <h3>🛠️ Development Tools</h3>
 
@@ -129,6 +178,14 @@ I enjoy working across the complete development lifecycle:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black"/>
 </p>
+
+</td>
+
+<!-- =========================
+     AI TOOLS
+========================= -->
+
+<td width="50%" valign="top">
 
 <h3>🤖 AI & Developer Tools</h3>
 
@@ -140,6 +197,13 @@ I enjoy working across the complete development lifecycle:
   <img src="https://img.shields.io/badge/Antigravity-6366F1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ---
 
