@@ -266,24 +266,19 @@ Exploring AI systems and developer-focused AI tools.
 ---
 
 <!-- =========================
-     GITHUB STATS
+     GITHUB ACTIVITY
 ========================= -->
 
 <h2>📊 GitHub Activity</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajay-nishad25&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+<br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-nishad25&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-nishad25&bg_color=00000000&color=6366f1&line=8b5cf6&point=06b6d4&area=true&hide_border=true"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-nishad25&hide_border=true&theme=transparent"
+  alt="Ajay's GitHub Streak"
+/>
 
 </div>
 
@@ -301,14 +296,7 @@ Exploring AI systems and developer-focused AI tools.
 
 **"The best way to learn is to build."**
 
-<br/><br/>
 
-<a href="https://ajay-nishad25-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6366f1?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer"/> 
 
 </div>
